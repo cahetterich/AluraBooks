@@ -1,5 +1,6 @@
 # AluraBooks
 Último projeto realizado durante o curso "A partir do zero: HTML e CSS para projetos web", utilizando Media Query para desenvolver o site com responsividade. 
+[Certificado do Curso](https://cursos.alura.com.br/degree/certificate/f4af562a-1833-4576-8528-d0e967be4157)
 
 <h2> Projeto desenvolvido: </h2>
 
